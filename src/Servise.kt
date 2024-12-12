@@ -16,7 +16,7 @@ class Servise:MyInterface {
              driver()
          }else{
               list.removeAt(order)
-             println("Order tookf")
+             println("Order took")
          }
      }
         else{
